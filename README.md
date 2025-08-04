@@ -1,2 +1,2 @@
 # gitTest2
-Testing git
+Please note this is a test
